@@ -1,2 +1,2 @@
 # SearchXMLFiles
-Este repositório contem uma simples aplicação em PowerShell par automatizar a busca dentro de arquivos XML.
+This repository contains a simple PowerShell application to automate searching within XML files.
